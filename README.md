@@ -6,6 +6,7 @@
 
 ## Documentation :
 
+Notes de réunion: https://github.com/charleslippens/CharlesLippens_10_2002022/blob/main/Notes%2B-%2BRe%CC%81union%2BLearn%40Home.pdf
 
 ## Liens utiles :
 
