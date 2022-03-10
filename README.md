@@ -10,7 +10,8 @@ Notes de réunion: https://github.com/charleslippens/CharlesLippens_10_2002022/b
 
 ## Liens utiles :
 
-- Kanban du projet : https://www.notion.so/Dev4U-projet-Learn-Home-53282ed9bada46a99fe72e4d1c35e7b3
+- Kanban du projet : https://www.notion.so/Dev4U-projet-Learn-Home-53282ed9bada46a99fe72e4d1c35e7b3 / https://fuschia-slime-8dc.notion.site/Dev4U-projet-Learn-Home-53282ed9bada46a99fe72e4d1c35e7b3
+
 
 - Maquette de l'application (en cours) : https://www.figma.com/file/3GzhLM1Houb4OogV8ois0q/Maquette-Learn-Home?node-id=2%3A961
 
